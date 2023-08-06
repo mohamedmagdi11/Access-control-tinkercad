@@ -65,6 +65,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or questions, please contact [mohammed.abdallah.salem@gmail.com](mohammed.abdallah.salem@gmail.com).
+For any inquiries or questions, please contact [mohammed.abdallah.salem@gmail.com](mohammed.abdallah.salem@gmail.com). 
 
 
