@@ -65,7 +65,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or questions, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or questions, please contact [mohammed.abdallah.salem@gmail.com](mohammed.abdallah.salem@gmail.com).
 
----
-**Note:** Provide your email address and make necessary changes to the content above to reflect your own project details and preferences.
+
